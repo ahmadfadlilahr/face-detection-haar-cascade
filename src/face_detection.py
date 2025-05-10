@@ -3,6 +3,7 @@
 """
 Program Deteksi Wajah Real-time menggunakan Webcam dan Haar Cascades (LOKAL)
 dengan tambahan informasi jumlah wajah terdeteksi dan ekualisasi histogram.
+Copyright (c) 2025, Ahmad Fadlilah (https://github.com/ahmadfadlilah)
 """
 
 import cv2

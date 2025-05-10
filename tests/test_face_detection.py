@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+"""
+Test cases for face detection functionality
+Copyright (c) 2025, Ahmad Fadlilah (https://github.com/ahmadfadlilah)
+"""
 
 import os
 import sys

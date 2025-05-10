@@ -1,5 +1,7 @@
 # Contributing Guidelines
 
+Copyright (c) 2025, [Ahmad Fadlilah](https://github.com/ahmadfadlilah)
+
 Thank you for your interest in contributing to this project! Here are some guidelines to help you get started.
 
 ## Code of Conduct

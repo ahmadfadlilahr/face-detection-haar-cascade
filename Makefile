@@ -1,4 +1,5 @@
 # Makefile for development tasks
+# Copyright (c) 2025, Ahmad Fadlilah (https://github.com/ahmadfadlilah)
 
 .PHONY: help clean test lint format install dev-install
 

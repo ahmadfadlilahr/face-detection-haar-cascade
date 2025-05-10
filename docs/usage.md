@@ -1,5 +1,7 @@
 # Documentation
 
+*Copyright (c) 2025, Ahmad Fadlilah (https://github.com/ahmadfadlilah)*
+
 ## Overview
 
 This application provides real-time face detection using OpenCV's Haar Cascade classifiers. The detection is performed on a live video feed from a webcam.
